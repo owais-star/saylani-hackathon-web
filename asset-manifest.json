@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saylani-hackathon-web/static/css/main.f0fa98e2.chunk.css",
+    "main.js": "/saylani-hackathon-web/static/js/main.2baa609b.chunk.js",
+    "main.js.map": "/saylani-hackathon-web/static/js/main.2baa609b.chunk.js.map",
+    "runtime-main.js": "/saylani-hackathon-web/static/js/runtime-main.5879acf9.js",
+    "runtime-main.js.map": "/saylani-hackathon-web/static/js/runtime-main.5879acf9.js.map",
+    "static/js/2.2b8f5b79.chunk.js": "/saylani-hackathon-web/static/js/2.2b8f5b79.chunk.js",
+    "static/js/2.2b8f5b79.chunk.js.map": "/saylani-hackathon-web/static/js/2.2b8f5b79.chunk.js.map",
+    "index.html": "/saylani-hackathon-web/index.html",
+    "precache-manifest.6c681555fdade50812ce30d86ec8285b.js": "/saylani-hackathon-web/precache-manifest.6c681555fdade50812ce30d86ec8285b.js",
+    "service-worker.js": "/saylani-hackathon-web/service-worker.js",
+    "static/css/main.f0fa98e2.chunk.css.map": "/saylani-hackathon-web/static/css/main.f0fa98e2.chunk.css.map",
+    "static/js/2.2b8f5b79.chunk.js.LICENSE.txt": "/saylani-hackathon-web/static/js/2.2b8f5b79.chunk.js.LICENSE.txt",
+    "static/media/FB.jpg": "/saylani-hackathon-web/static/media/FB.c8ebd822.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5879acf9.js",
+    "static/js/2.2b8f5b79.chunk.js",
+    "static/css/main.f0fa98e2.chunk.css",
+    "static/js/main.2baa609b.chunk.js"
+  ]
+}
