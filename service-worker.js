@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/saylani-hackathon-web/precache-manifest.6c681555fdade50812ce30d86ec8285b.js"
+  "/saylani-hackathon-web/precache-manifest.164d579bbcdbd345f9564bc0e5f00751.js"
 );
 
 self.addEventListener('message', (event) => {
